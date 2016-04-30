@@ -1,2 +1,2 @@
-# display-text-php
-This program allows you to display text in PHP
+# display-text-javascript-html
+This program allows you to display text when inputing text
